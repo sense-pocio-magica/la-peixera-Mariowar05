@@ -1,9 +1,8 @@
-﻿namespace Tasca;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Tasca;
 
 internal class Program
 {
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
+    
 }
